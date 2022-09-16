@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { createBrotliCompress } = require('zlib');
 
 //백준
 const input = fs.readFileSync('/dev/stdin').toString().split('\n');
